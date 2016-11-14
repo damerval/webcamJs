@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b04a84ac-067d-4991-8c5d-dc61522f2e1b" name="bluewww" url="http://blue">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes/blueweb" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
